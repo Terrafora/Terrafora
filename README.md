@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Terrafora
-- 👀 I’m interested in full-stack web development, creating browser extensions.
-- 🌱 I’m currently learning Javascript (I'm at the beginning of my coding journey).
-- 💞️ I’m looking to collaborate on nothing at the moment.
+- 👀 I’m interested in web development.
+- 🌱 I’m currently learning Javascript and some supporting libraries.
+- 💞️ I’m not currently looking to collaborate on anything.
 - 📫 How to reach me message me on here or send me a message on Discord at Breeze#5632
 
 <!---
